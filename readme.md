@@ -1,3 +1,7 @@
+
+Hussain  12345678
+
+
 Yeh Streamlit app aik “Secure Data Vault” banaata hai jahan users apne data ko encrypt karke store kar sakte hain aur baad mein decrypt kar sakte hain. Isme user registration aur login system hai jo bcrypt se passwords hash karta hai aur Fernet (cryptography) se data encrypt/decrypt karta hai. Aaiye ab har line ya block ko detail se Roman Urdu mein dekhte hain.
 
 1. Import Statements
